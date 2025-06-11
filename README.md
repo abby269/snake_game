@@ -15,3 +15,4 @@ This project is a classic Snake Game implemented using **OpenGL** as part of our
 | Amran Ermias    | UGR/7372/15    |
 | Eleni Tesfaye   | UGR/1408/15    |
 | Elnata Getu     | UGR/8176/15    |
+| Dagmawit Anbesaw     | -    |
